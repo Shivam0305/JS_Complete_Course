@@ -38,3 +38,26 @@ let myobj = {
 //     console.log("Hello World");
 // }
 console.log(typeof(id));
+
+//Stack and heap Memory
+
+let myyoutubename ="Shivam"
+let anothername=myyoutubename
+anothername='real facts'
+console.log(myyoutubename);
+console.log(anothername);
+
+let userone = {
+   email:"Shivam1234@google.com",
+   upi:"user@ybl"
+
+}
+let userTwo=userone
+
+
+userTwo.email="shivam@google.com"
+
+console.log(userone.email);
+console.log(userTwo.email);
+
+
