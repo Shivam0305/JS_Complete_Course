@@ -8,10 +8,14 @@
 //     console.log("m");
 // }
 // saymyName()
-
+function addTwonumber(num1,num2){
+    // let result = num1+num2
+    // return result
+    return num1+num2
+}
 
 // addtwonumbers(3,4)
-// const result=addtwonumbers(3,4)
+const result=addtwonumbers(3,4)
 // console.log("Result : ",result);
 // console.log(typeof result);
 
