@@ -18,6 +18,7 @@ console.log(anotherString);
 
 const newstringone="  shivam "
 console.log(newstringone.trim());
+//trim is use for removing space
 console.log(newstringone);
 
 const url="https:/shivam.com/shivam %20 Jha"
