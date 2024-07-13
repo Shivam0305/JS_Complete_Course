@@ -11,3 +11,4 @@ console.log("Shivam")
 // Symbol
 // Object
 console.log(typeof null)
+
